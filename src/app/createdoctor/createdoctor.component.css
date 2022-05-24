@@ -1,0 +1,16 @@
+.bg{
+    background-image: url(../../assets/img/gallery/gallery-1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 890px;
+}
+.container{
+    height: auto;
+    background-color: #c85f22;
+}
+/* .contact-image{
+    width:auto;
+    height: 100px;
+    border-radius: 50px;
+} */

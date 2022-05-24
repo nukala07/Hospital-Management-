@@ -1,0 +1,11 @@
+.bg{
+    background-image: url(../../assets/img/slide/slide-2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 890px;
+}
+.container{
+    height: auto;
+    background-color: #ff4c06c4;
+}
